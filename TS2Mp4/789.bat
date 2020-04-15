@@ -1,0 +1,83 @@
+ffmpeg -i myfile01.ts -s 1080x608 -b:v 1000k -vcodec libx264 -r 29.97 -acodec libvo_aacenc -b:a 48k -ac 2 -ar 44100 -profile:v baseline -level 3.0 -f mp4 -y will01.mp4
+ffmpeg -i myfile02.ts -s 1080x608 -b:v 1000k -vcodec libx264 -r 29.97 -acodec libvo_aacenc -b:a 48k -ac 2 -ar 44100 -profile:v baseline -level 3.0 -f mp4 -y will02.mp4
+ffmpeg -i myfile03.ts -s 1080x608 -b:v 1000k -vcodec libx264 -r 29.97 -acodec libvo_aacenc -b:a 48k -ac 2 -ar 44100 -profile:v baseline -level 3.0 -f mp4 -y will03.mp4
+ffmpeg -i myfile04.ts -s 1080x608 -b:v 1000k -vcodec libx264 -r 29.97 -acodec libvo_aacenc -b:a 48k -ac 2 -ar 44100 -profile:v baseline -level 3.0 -f mp4 -y will04.mp4
+ffmpeg -i myfile05.ts -s 1080x608 -b:v 1000k -vcodec libx264 -r 29.97 -acodec libvo_aacenc -b:a 48k -ac 2 -ar 44100 -profile:v baseline -level 3.0 -f mp4 -y will05.mp4
+ffmpeg -i myfile06.ts -s 1080x608 -b:v 1000k -vcodec libx264 -r 29.97 -acodec libvo_aacenc -b:a 48k -ac 2 -ar 44100 -profile:v baseline -level 3.0 -f mp4 -y will06.mp4
+ffmpeg -i myfile07.ts -s 1080x608 -b:v 1000k -vcodec libx264 -r 29.97 -acodec libvo_aacenc -b:a 48k -ac 2 -ar 44100 -profile:v baseline -level 3.0 -f mp4 -y will07.mp4
+ffmpeg -i myfile08.ts -s 1080x608 -b:v 1000k -vcodec libx264 -r 29.97 -acodec libvo_aacenc -b:a 48k -ac 2 -ar 44100 -profile:v baseline -level 3.0 -f mp4 -y will08.mp4
+ffmpeg -i myfile09.ts -s 1080x608 -b:v 1000k -vcodec libx264 -r 29.97 -acodec libvo_aacenc -b:a 48k -ac 2 -ar 44100 -profile:v baseline -level 3.0 -f mp4 -y will09.mp4
+ffmpeg -i myfile10.ts -s 1080x608 -b:v 1000k -vcodec libx264 -r 29.97 -acodec libvo_aacenc -b:a 48k -ac 2 -ar 44100 -profile:v baseline -level 3.0 -f mp4 -y will10.mp4
+
+ffmpeg -i myfile11.ts -s 1080x608 -b:v 1000k -vcodec libx264 -r 29.97 -acodec libvo_aacenc -b:a 48k -ac 2 -ar 44100 -profile:v baseline -level 3.0 -f mp4 -y will11.mp4
+ffmpeg -i myfile12.ts -s 1080x608 -b:v 1000k -vcodec libx264 -r 29.97 -acodec libvo_aacenc -b:a 48k -ac 2 -ar 44100 -profile:v baseline -level 3.0 -f mp4 -y will12.mp4
+ffmpeg -i myfile13.ts -s 1080x608 -b:v 1000k -vcodec libx264 -r 29.97 -acodec libvo_aacenc -b:a 48k -ac 2 -ar 44100 -profile:v baseline -level 3.0 -f mp4 -y will13.mp4
+ffmpeg -i myfile14.ts -s 1080x608 -b:v 1000k -vcodec libx264 -r 29.97 -acodec libvo_aacenc -b:a 48k -ac 2 -ar 44100 -profile:v baseline -level 3.0 -f mp4 -y will14.mp4
+ffmpeg -i myfile15.ts -s 1080x608 -b:v 1000k -vcodec libx264 -r 29.97 -acodec libvo_aacenc -b:a 48k -ac 2 -ar 44100 -profile:v baseline -level 3.0 -f mp4 -y will15.mp4
+ffmpeg -i myfile16.ts -s 1080x608 -b:v 1000k -vcodec libx264 -r 29.97 -acodec libvo_aacenc -b:a 48k -ac 2 -ar 44100 -profile:v baseline -level 3.0 -f mp4 -y will16.mp4
+ffmpeg -i myfile17.ts -s 1080x608 -b:v 1000k -vcodec libx264 -r 29.97 -acodec libvo_aacenc -b:a 48k -ac 2 -ar 44100 -profile:v baseline -level 3.0 -f mp4 -y will17.mp4
+ffmpeg -i myfile18.ts -s 1080x608 -b:v 1000k -vcodec libx264 -r 29.97 -acodec libvo_aacenc -b:a 48k -ac 2 -ar 44100 -profile:v baseline -level 3.0 -f mp4 -y will18.mp4
+ffmpeg -i myfile19.ts -s 1080x608 -b:v 1000k -vcodec libx264 -r 29.97 -acodec libvo_aacenc -b:a 48k -ac 2 -ar 44100 -profile:v baseline -level 3.0 -f mp4 -y will19.mp4
+ffmpeg -i myfile20.ts -s 1080x608 -b:v 1000k -vcodec libx264 -r 29.97 -acodec libvo_aacenc -b:a 48k -ac 2 -ar 44100 -profile:v baseline -level 3.0 -f mp4 -y will20.mp4
+
+ffmpeg -i myfile21.ts -s 1080x608 -b:v 1000k -vcodec libx264 -r 29.97 -acodec libvo_aacenc -b:a 48k -ac 2 -ar 44100 -profile:v baseline -level 3.0 -f mp4 -y will21.mp4
+ffmpeg -i myfile22.ts -s 1080x608 -b:v 1000k -vcodec libx264 -r 29.97 -acodec libvo_aacenc -b:a 48k -ac 2 -ar 44100 -profile:v baseline -level 3.0 -f mp4 -y will22.mp4
+ffmpeg -i myfile23.ts -s 1080x608 -b:v 1000k -vcodec libx264 -r 29.97 -acodec libvo_aacenc -b:a 48k -ac 2 -ar 44100 -profile:v baseline -level 3.0 -f mp4 -y will23.mp4
+ffmpeg -i myfile24.ts -s 1080x608 -b:v 1000k -vcodec libx264 -r 29.97 -acodec libvo_aacenc -b:a 48k -ac 2 -ar 44100 -profile:v baseline -level 3.0 -f mp4 -y will24.mp4
+ffmpeg -i myfile25.ts -s 1080x608 -b:v 1000k -vcodec libx264 -r 29.97 -acodec libvo_aacenc -b:a 48k -ac 2 -ar 44100 -profile:v baseline -level 3.0 -f mp4 -y will25.mp4
+ffmpeg -i myfile26.ts -s 1080x608 -b:v 1000k -vcodec libx264 -r 29.97 -acodec libvo_aacenc -b:a 48k -ac 2 -ar 44100 -profile:v baseline -level 3.0 -f mp4 -y will26.mp4
+ffmpeg -i myfile27.ts -s 1080x608 -b:v 1000k -vcodec libx264 -r 29.97 -acodec libvo_aacenc -b:a 48k -ac 2 -ar 44100 -profile:v baseline -level 3.0 -f mp4 -y will27.mp4
+ffmpeg -i myfile28.ts -s 1080x608 -b:v 1000k -vcodec libx264 -r 29.97 -acodec libvo_aacenc -b:a 48k -ac 2 -ar 44100 -profile:v baseline -level 3.0 -f mp4 -y will28.mp4
+ffmpeg -i myfile29.ts -s 1080x608 -b:v 1000k -vcodec libx264 -r 29.97 -acodec libvo_aacenc -b:a 48k -ac 2 -ar 44100 -profile:v baseline -level 3.0 -f mp4 -y will29.mp4
+ffmpeg -i myfile30.ts -s 1080x608 -b:v 1000k -vcodec libx264 -r 29.97 -acodec libvo_aacenc -b:a 48k -ac 2 -ar 44100 -profile:v baseline -level 3.0 -f mp4 -y will30.mp4
+
+ffmpeg -i myfile31.ts -s 1080x608 -b:v 1000k -vcodec libx264 -r 29.97 -acodec libvo_aacenc -b:a 48k -ac 2 -ar 44100 -profile:v baseline -level 3.0 -f mp4 -y will31.mp4
+ffmpeg -i myfile32.ts -s 1080x608 -b:v 1000k -vcodec libx264 -r 29.97 -acodec libvo_aacenc -b:a 48k -ac 2 -ar 44100 -profile:v baseline -level 3.0 -f mp4 -y will32.mp4
+ffmpeg -i myfile33.ts -s 1080x608 -b:v 1000k -vcodec libx264 -r 29.97 -acodec libvo_aacenc -b:a 48k -ac 2 -ar 44100 -profile:v baseline -level 3.0 -f mp4 -y will33.mp4
+ffmpeg -i myfile34.ts -s 1080x608 -b:v 1000k -vcodec libx264 -r 29.97 -acodec libvo_aacenc -b:a 48k -ac 2 -ar 44100 -profile:v baseline -level 3.0 -f mp4 -y will34.mp4
+ffmpeg -i myfile35.ts -s 1080x608 -b:v 1000k -vcodec libx264 -r 29.97 -acodec libvo_aacenc -b:a 48k -ac 2 -ar 44100 -profile:v baseline -level 3.0 -f mp4 -y will35.mp4
+ffmpeg -i myfile36.ts -s 1080x608 -b:v 1000k -vcodec libx264 -r 29.97 -acodec libvo_aacenc -b:a 48k -ac 2 -ar 44100 -profile:v baseline -level 3.0 -f mp4 -y will36.mp4
+ffmpeg -i myfile37.ts -s 1080x608 -b:v 1000k -vcodec libx264 -r 29.97 -acodec libvo_aacenc -b:a 48k -ac 2 -ar 44100 -profile:v baseline -level 3.0 -f mp4 -y will37.mp4
+ffmpeg -i myfile38.ts -s 1080x608 -b:v 1000k -vcodec libx264 -r 29.97 -acodec libvo_aacenc -b:a 48k -ac 2 -ar 44100 -profile:v baseline -level 3.0 -f mp4 -y will38.mp4
+ffmpeg -i myfile39.ts -s 1080x608 -b:v 1000k -vcodec libx264 -r 29.97 -acodec libvo_aacenc -b:a 48k -ac 2 -ar 44100 -profile:v baseline -level 3.0 -f mp4 -y will39.mp4
+ffmpeg -i myfile40.ts -s 1080x608 -b:v 1000k -vcodec libx264 -r 29.97 -acodec libvo_aacenc -b:a 48k -ac 2 -ar 44100 -profile:v baseline -level 3.0 -f mp4 -y will40.mp4
+
+ffmpeg -i myfile41.ts -s 1080x608 -b:v 1000k -vcodec libx264 -r 29.97 -acodec libvo_aacenc -b:a 48k -ac 2 -ar 44100 -profile:v baseline -level 3.0 -f mp4 -y will41.mp4
+ffmpeg -i myfile42.ts -s 1080x608 -b:v 1000k -vcodec libx264 -r 29.97 -acodec libvo_aacenc -b:a 48k -ac 2 -ar 44100 -profile:v baseline -level 3.0 -f mp4 -y will42.mp4
+ffmpeg -i myfile43.ts -s 1080x608 -b:v 1000k -vcodec libx264 -r 29.97 -acodec libvo_aacenc -b:a 48k -ac 2 -ar 44100 -profile:v baseline -level 3.0 -f mp4 -y will43.mp4
+ffmpeg -i myfile44.ts -s 1080x608 -b:v 1000k -vcodec libx264 -r 29.97 -acodec libvo_aacenc -b:a 48k -ac 2 -ar 44100 -profile:v baseline -level 3.0 -f mp4 -y will44.mp4
+ffmpeg -i myfile45.ts -s 1080x608 -b:v 1000k -vcodec libx264 -r 29.97 -acodec libvo_aacenc -b:a 48k -ac 2 -ar 44100 -profile:v baseline -level 3.0 -f mp4 -y will45.mp4
+ffmpeg -i myfile46.ts -s 1080x608 -b:v 1000k -vcodec libx264 -r 29.97 -acodec libvo_aacenc -b:a 48k -ac 2 -ar 44100 -profile:v baseline -level 3.0 -f mp4 -y will46.mp4
+ffmpeg -i myfile47.ts -s 1080x608 -b:v 1000k -vcodec libx264 -r 29.97 -acodec libvo_aacenc -b:a 48k -ac 2 -ar 44100 -profile:v baseline -level 3.0 -f mp4 -y will47.mp4
+ffmpeg -i myfile48.ts -s 1080x608 -b:v 1000k -vcodec libx264 -r 29.97 -acodec libvo_aacenc -b:a 48k -ac 2 -ar 44100 -profile:v baseline -level 3.0 -f mp4 -y will48.mp4
+ffmpeg -i myfile49.ts -s 1080x608 -b:v 1000k -vcodec libx264 -r 29.97 -acodec libvo_aacenc -b:a 48k -ac 2 -ar 44100 -profile:v baseline -level 3.0 -f mp4 -y will49.mp4
+ffmpeg -i myfile50.ts -s 1080x608 -b:v 1000k -vcodec libx264 -r 29.97 -acodec libvo_aacenc -b:a 48k -ac 2 -ar 44100 -profile:v baseline -level 3.0 -f mp4 -y will50.mp4
+
+ffmpeg -i myfile51.ts -s 1080x608 -b:v 1000k -vcodec libx264 -r 29.97 -acodec libvo_aacenc -b:a 48k -ac 2 -ar 44100 -profile:v baseline -level 3.0 -f mp4 -y will51.mp4
+ffmpeg -i myfile52.ts -s 1080x608 -b:v 1000k -vcodec libx264 -r 29.97 -acodec libvo_aacenc -b:a 48k -ac 2 -ar 44100 -profile:v baseline -level 3.0 -f mp4 -y will52.mp4
+ffmpeg -i myfile53.ts -s 1080x608 -b:v 1000k -vcodec libx264 -r 29.97 -acodec libvo_aacenc -b:a 48k -ac 2 -ar 44100 -profile:v baseline -level 3.0 -f mp4 -y will53.mp4
+ffmpeg -i myfile54.ts -s 1080x608 -b:v 1000k -vcodec libx264 -r 29.97 -acodec libvo_aacenc -b:a 48k -ac 2 -ar 44100 -profile:v baseline -level 3.0 -f mp4 -y will54.mp4
+ffmpeg -i myfile55.ts -s 1080x608 -b:v 1000k -vcodec libx264 -r 29.97 -acodec libvo_aacenc -b:a 48k -ac 2 -ar 44100 -profile:v baseline -level 3.0 -f mp4 -y will55.mp4
+ffmpeg -i myfile56.ts -s 1080x608 -b:v 1000k -vcodec libx264 -r 29.97 -acodec libvo_aacenc -b:a 48k -ac 2 -ar 44100 -profile:v baseline -level 3.0 -f mp4 -y will56.mp4
+ffmpeg -i myfile57.ts -s 1080x608 -b:v 1000k -vcodec libx264 -r 29.97 -acodec libvo_aacenc -b:a 48k -ac 2 -ar 44100 -profile:v baseline -level 3.0 -f mp4 -y will57.mp4
+ffmpeg -i myfile58.ts -s 1080x608 -b:v 1000k -vcodec libx264 -r 29.97 -acodec libvo_aacenc -b:a 48k -ac 2 -ar 44100 -profile:v baseline -level 3.0 -f mp4 -y will58.mp4
+ffmpeg -i myfile59.ts -s 1080x608 -b:v 1000k -vcodec libx264 -r 29.97 -acodec libvo_aacenc -b:a 48k -ac 2 -ar 44100 -profile:v baseline -level 3.0 -f mp4 -y will59.mp4
+ffmpeg -i myfile60.ts -s 1080x608 -b:v 1000k -vcodec libx264 -r 29.97 -acodec libvo_aacenc -b:a 48k -ac 2 -ar 44100 -profile:v baseline -level 3.0 -f mp4 -y will60.mp4
+
+ffmpeg -i myfile61.ts -s 1080x608 -b:v 1000k -vcodec libx264 -r 29.97 -acodec libvo_aacenc -b:a 48k -ac 2 -ar 44100 -profile:v baseline -level 3.0 -f mp4 -y will61.mp4
+ffmpeg -i myfile62.ts -s 1080x608 -b:v 1000k -vcodec libx264 -r 29.97 -acodec libvo_aacenc -b:a 48k -ac 2 -ar 44100 -profile:v baseline -level 3.0 -f mp4 -y will62.mp4
+ffmpeg -i myfile63.ts -s 1080x608 -b:v 1000k -vcodec libx264 -r 29.97 -acodec libvo_aacenc -b:a 48k -ac 2 -ar 44100 -profile:v baseline -level 3.0 -f mp4 -y will63.mp4
+ffmpeg -i myfile64.ts -s 1080x608 -b:v 1000k -vcodec libx264 -r 29.97 -acodec libvo_aacenc -b:a 48k -ac 2 -ar 44100 -profile:v baseline -level 3.0 -f mp4 -y will64.mp4
+ffmpeg -i myfile65.ts -s 1080x608 -b:v 1000k -vcodec libx264 -r 29.97 -acodec libvo_aacenc -b:a 48k -ac 2 -ar 44100 -profile:v baseline -level 3.0 -f mp4 -y will65.mp4
+ffmpeg -i myfile66.ts -s 1080x608 -b:v 1000k -vcodec libx264 -r 29.97 -acodec libvo_aacenc -b:a 48k -ac 2 -ar 44100 -profile:v baseline -level 3.0 -f mp4 -y will66.mp4
+ffmpeg -i myfile67.ts -s 1080x608 -b:v 1000k -vcodec libx264 -r 29.97 -acodec libvo_aacenc -b:a 48k -ac 2 -ar 44100 -profile:v baseline -level 3.0 -f mp4 -y will67.mp4
+ffmpeg -i myfile68.ts -s 1080x608 -b:v 1000k -vcodec libx264 -r 29.97 -acodec libvo_aacenc -b:a 48k -ac 2 -ar 44100 -profile:v baseline -level 3.0 -f mp4 -y will68.mp4
+ffmpeg -i myfile69.ts -s 1080x608 -b:v 1000k -vcodec libx264 -r 29.97 -acodec libvo_aacenc -b:a 48k -ac 2 -ar 44100 -profile:v baseline -level 3.0 -f mp4 -y will69.mp4
+ffmpeg -i myfile70.ts -s 1080x608 -b:v 1000k -vcodec libx264 -r 29.97 -acodec libvo_aacenc -b:a 48k -ac 2 -ar 44100 -profile:v baseline -level 3.0 -f mp4 -y will70.mp4
+
+ffmpeg -i myfile71.ts -s 1080x608 -b:v 1000k -vcodec libx264 -r 29.97 -acodec libvo_aacenc -b:a 48k -ac 2 -ar 44100 -profile:v baseline -level 3.0 -f mp4 -y will71.mp4
+ffmpeg -i myfile72.ts -s 1080x608 -b:v 1000k -vcodec libx264 -r 29.97 -acodec libvo_aacenc -b:a 48k -ac 2 -ar 44100 -profile:v baseline -level 3.0 -f mp4 -y will72.mp4
+ffmpeg -i myfile73.ts -s 1080x608 -b:v 1000k -vcodec libx264 -r 29.97 -acodec libvo_aacenc -b:a 48k -ac 2 -ar 44100 -profile:v baseline -level 3.0 -f mp4 -y will73.mp4
+ffmpeg -i myfile74.ts -s 1080x608 -b:v 1000k -vcodec libx264 -r 29.97 -acodec libvo_aacenc -b:a 48k -ac 2 -ar 44100 -profile:v baseline -level 3.0 -f mp4 -y will74.mp4
+ffmpeg -i myfile75.ts -s 1080x608 -b:v 1000k -vcodec libx264 -r 29.97 -acodec libvo_aacenc -b:a 48k -ac 2 -ar 44100 -profile:v baseline -level 3.0 -f mp4 -y will75.mp4
+ffmpeg -i myfile76.ts -s 1080x608 -b:v 1000k -vcodec libx264 -r 29.97 -acodec libvo_aacenc -b:a 48k -ac 2 -ar 44100 -profile:v baseline -level 3.0 -f mp4 -y will76.mp4

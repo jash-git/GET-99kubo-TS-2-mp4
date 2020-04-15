@@ -1,0 +1,83 @@
+copy /B /V .\01\w1iaP67n3020*.ts myfile01.ts
+copy /B /V .\02\w1iaP67n3020*.ts myfile02.ts
+copy /B /V .\03\w1iaP67n3020*.ts myfile03.ts
+copy /B /V .\04\w1iaP67n3020*.ts myfile04.ts
+copy /B /V .\05\w1iaP67n3020*.ts myfile05.ts
+copy /B /V .\06\w1iaP67n3020*.ts myfile06.ts
+copy /B /V .\07\w1iaP67n3020*.ts myfile07.ts
+copy /B /V .\08\w1iaP67n3020*.ts myfile08.ts
+copy /B /V .\09\w1iaP67n3020*.ts myfile09.ts
+copy /B /V .\10\w1iaP67n3020*.ts myfile10.ts
+
+copy /B /V .\11\w1iaP67n3020*.ts myfile11.ts
+copy /B /V .\12\w1iaP67n3020*.ts myfile12.ts
+copy /B /V .\13\w1iaP67n3020*.ts myfile13.ts
+copy /B /V .\14\w1iaP67n3020*.ts myfile14.ts
+copy /B /V .\15\w1iaP67n3020*.ts myfile15.ts
+copy /B /V .\16\w1iaP67n3020*.ts myfile16.ts
+copy /B /V .\17\w1iaP67n3020*.ts myfile17.ts
+copy /B /V .\18\w1iaP67n3020*.ts myfile18.ts
+copy /B /V .\19\w1iaP67n3020*.ts myfile19.ts
+copy /B /V .\20\w1iaP67n3020*.ts myfile20.ts
+
+copy /B /V .\21\w1iaP67n3020*.ts myfile21.ts
+copy /B /V .\22\w1iaP67n3020*.ts myfile22.ts
+copy /B /V .\23\w1iaP67n3020*.ts myfile23.ts
+copy /B /V .\24\w1iaP67n3020*.ts myfile24.ts
+copy /B /V .\25\w1iaP67n3020*.ts myfile25.ts
+copy /B /V .\26\w1iaP67n3020*.ts myfile26.ts
+copy /B /V .\27\w1iaP67n3020*.ts myfile27.ts
+copy /B /V .\28\w1iaP67n3020*.ts myfile28.ts
+copy /B /V .\29\w1iaP67n3020*.ts myfile29.ts
+copy /B /V .\30\w1iaP67n3020*.ts myfile30.ts
+
+copy /B /V .\31\w1iaP67n3020*.ts myfile31.ts
+copy /B /V .\32\w1iaP67n3020*.ts myfile32.ts
+copy /B /V .\33\w1iaP67n3020*.ts myfile33.ts
+copy /B /V .\34\w1iaP67n3020*.ts myfile34.ts
+copy /B /V .\35\w1iaP67n3020*.ts myfile35.ts
+copy /B /V .\36\w1iaP67n3020*.ts myfile36.ts
+copy /B /V .\37\w1iaP67n3020*.ts myfile37.ts
+copy /B /V .\38\w1iaP67n3020*.ts myfile38.ts
+copy /B /V .\39\w1iaP67n3020*.ts myfile39.ts
+copy /B /V .\40\w1iaP67n3020*.ts myfile40.ts
+
+copy /B /V .\41\w1iaP67n3020*.ts myfile41.ts
+copy /B /V .\42\w1iaP67n3020*.ts myfile42.ts
+copy /B /V .\43\w1iaP67n3020*.ts myfile43.ts
+copy /B /V .\44\w1iaP67n3020*.ts myfile44.ts
+copy /B /V .\45\w1iaP67n3020*.ts myfile45.ts
+copy /B /V .\46\w1iaP67n3020*.ts myfile46.ts
+copy /B /V .\47\w1iaP67n3020*.ts myfile47.ts
+copy /B /V .\48\w1iaP67n3020*.ts myfile48.ts
+copy /B /V .\49\w1iaP67n3020*.ts myfile49.ts
+copy /B /V .\50\w1iaP67n3020*.ts myfile50.ts
+
+copy /B /V .\51\w1iaP67n3020*.ts myfile51.ts
+copy /B /V .\52\w1iaP67n3020*.ts myfile52.ts
+copy /B /V .\53\w1iaP67n3020*.ts myfile53.ts
+copy /B /V .\54\w1iaP67n3020*.ts myfile54.ts
+copy /B /V .\55\w1iaP67n3020*.ts myfile55.ts
+copy /B /V .\56\w1iaP67n3020*.ts myfile56.ts
+copy /B /V .\57\w1iaP67n3020*.ts myfile57.ts
+copy /B /V .\58\w1iaP67n3020*.ts myfile58.ts
+copy /B /V .\59\w1iaP67n3020*.ts myfile59.ts
+copy /B /V .\60\w1iaP67n3020*.ts myfile60.ts
+
+copy /B /V .\61\w1iaP67n3020*.ts myfile61.ts
+copy /B /V .\62\w1iaP67n3020*.ts myfile62.ts
+copy /B /V .\63\w1iaP67n3020*.ts myfile63.ts
+copy /B /V .\64\w1iaP67n3020*.ts myfile64.ts
+copy /B /V .\65\w1iaP67n3020*.ts myfile65.ts
+copy /B /V .\66\w1iaP67n3020*.ts myfile66.ts
+copy /B /V .\67\w1iaP67n3020*.ts myfile67.ts
+copy /B /V .\68\w1iaP67n3020*.ts myfile68.ts
+copy /B /V .\69\w1iaP67n3020*.ts myfile69.ts
+copy /B /V .\70\w1iaP67n3020*.ts myfile70.ts
+
+copy /B /V .\71\w1iaP67n3020*.ts myfile71.ts
+copy /B /V .\72\w1iaP67n3020*.ts myfile72.ts
+copy /B /V .\73\w1iaP67n3020*.ts myfile73.ts
+copy /B /V .\74\w1iaP67n3020*.ts myfile74.ts
+copy /B /V .\75\w1iaP67n3020*.ts myfile75.ts
+copy /B /V .\76\w1iaP67n3020*.ts myfile76.ts
